@@ -3,7 +3,7 @@
 
 LIVE LINK: https://campcentrity.netlify.app
 
-GITHUB CODES:
+GITHUB CODES: https://github.com/ijayhub/camp-deploy-netlify
 
  **Features** 
  ```
